@@ -18,4 +18,5 @@ h1 {
     width: 120px;
     height: 120px;
     display: grid;
+    padding: 10px;
 }
