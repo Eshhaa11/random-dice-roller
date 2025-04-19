@@ -52,8 +52,9 @@ h1 {
     padding: 12px 24px;
     font-size: 18px;
     font-weight: bold;
+    color: white;
     border: none;
     border-radius: 70px;
     cursor: pointer;
-    background-color: rgb(29, 163, 17);
+    background-color: rgb(55, 60, 203);
 }
