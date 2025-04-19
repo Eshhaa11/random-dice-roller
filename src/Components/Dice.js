@@ -26,5 +26,11 @@ function Dice () {
             ></span>
           ));
         };
+
+        return (
+            <div className="dice-cont">
+                
+            </div>
+        )
       
 }
