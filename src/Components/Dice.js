@@ -8,4 +8,6 @@ function Dice () {
         const randomNum = Math.floor(Math.random() * 6) + 1;
         setDiceNum(randomNum);
       };
+
+      const renderDots = () => {
 }
