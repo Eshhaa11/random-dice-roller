@@ -33,7 +33,9 @@ function Dice () {
                   <div className="dice" onClick={rollDice}>
         {renderDots()}
       </div>
-            </div>
-        )
-      
+      <button onClick={rollDice} className="roll-btn">
+        Roll Dice
+      </button>
+    </div>
+  );
 }
