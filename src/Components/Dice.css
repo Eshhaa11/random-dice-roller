@@ -51,6 +51,7 @@ h1 {
 .roll-btn {
     padding: 12px 24px;
     font-size: 18px;
+    font-weight: bold;
     border: none;
     border-radius: 70px;
     cursor: pointer;
