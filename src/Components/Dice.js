@@ -18,5 +18,13 @@ function Dice () {
             5: [1, 3, 5, 7, 9],
             6: [1, 3, 4, 6, 7, 9],
           };
+
+        return [...Array(9)].map((_, i) => (
+            <span
+              key={i}
+              className={`dot ${dotPatterns[diceNum].includes(i + 1) ? "active" : ""}`}
+            ></span>
+          ));
+        };
       
 }
