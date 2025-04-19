@@ -31,4 +31,8 @@ h1 {
 
 .dice:active {
     transform: scale(0.95);
-  }
+}
+
+.dot {
+    
+}
