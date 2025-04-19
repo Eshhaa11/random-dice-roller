@@ -30,6 +30,9 @@ function Dice () {
         return (
             <div className="dice-cont">
                   <h1>🎲 Dice Roller</h1>
+                  <div className="dice" onClick={rollDice}>
+        {renderDots()}
+      </div>
             </div>
         )
       
