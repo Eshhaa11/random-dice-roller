@@ -2,3 +2,7 @@ body {
     background-color: black;
     font-family: sans-serif;
 }
+
+.dice-cont {
+    margin-top: 100px;
+}
