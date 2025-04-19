@@ -34,6 +34,7 @@ h1 {
 }
 
 .dot {
+    background:  #861111;
     align-self: center;
     justify-self: center;
     width: 16px;
@@ -42,3 +43,7 @@ h1 {
     opacity: 0;
     transition: opacity 0.2s ease;
 }
+
+.dot.active {
+    opacity: 1;
+  }
