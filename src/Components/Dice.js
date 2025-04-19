@@ -1,4 +1,5 @@
-import useState from "react";
+import { useState } from "react";
+
 import "./Dice.css";
 
 function Dice() {
@@ -10,7 +11,7 @@ function Dice() {
   };
 
   const renderDots = () => {
-    const dotPattern = {
+    const dotPatterns = {
       1: [5],
       2: [1, 9],
       3: [1, 5, 9],
