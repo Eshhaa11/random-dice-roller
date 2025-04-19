@@ -4,7 +4,7 @@ To see it in action, clone the repository and follow the setup instructions belo
 1. **Clone the repository:**
 
    ```bash
-   git clone  https://github.com/Eshhaa11/search-bar-with-filtering
+   git clone  https://github.com/Eshhaa11/random-dice-roller
    
    
 2. **Navigate to the project directory:**
