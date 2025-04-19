@@ -21,4 +21,5 @@ h1 {
     padding: 10px;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
+    border-radius: 16px;
 }
