@@ -39,3 +39,5 @@ function Dice () {
     </div>
   );
 }
+
+export default Dice;
