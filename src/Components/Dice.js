@@ -29,7 +29,7 @@ function Dice () {
 
         return (
             <div className="dice-cont">
-                
+                  <h2>🎲 Dice Roller</h2>
             </div>
         )
       
