@@ -15,7 +15,9 @@ h1 {
 }
 
 .dice {
+    background: radial-gradient(circle at 30% 30%, #ffffff, #dcdcdc);
     width: 120px;
+    margin: 0 auto 30px;
     height: 120px;
     display: grid;
     padding: 10px;
