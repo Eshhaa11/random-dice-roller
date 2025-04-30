@@ -1,3 +1,5 @@
+![App Screenshot](src/assets/dice.jpg)
+
 # 🎲 Dice Roller (React)
 
 A stylish and interactive **React** dice roller app that mimics a real 3D dice. Just click the dice or hit the button to roll — clean, responsive, and fun!
